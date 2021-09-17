@@ -1,9 +1,7 @@
 layout: post
 title: "JavaScript 的诞生"
 date: 2021-09-16 17:05:23
-categories: URL
-
-# JavaScript 的诞生
+categories: JavaScript
 
 ## JavaScript 的历史
 1994年，Netscape（网景公司）发布了Navigator浏览器。在四个月内，就占据了四分之三的浏览器市场，并成为1990年代互联网的主要浏览器。网景预见到网络需要变得更动态。网景公司急需一种网页脚本语言，
