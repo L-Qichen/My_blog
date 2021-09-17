@@ -1,3 +1,8 @@
+layout: post
+title: "JavaScript 的诞生"
+date: 2021-09-16 17:05:23
+categories: URL
+
 # JavaScript 的诞生
 
 ## JavaScript 的历史
